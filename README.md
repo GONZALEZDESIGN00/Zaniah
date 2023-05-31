@@ -12,15 +12,12 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
+Zaniah es una tipografía de caracteres en mayúscula que comprende todas las letras dl abecedario y signos de puntuación, en cuanto a su estilo o inspiración se puede clasificar como una tipografía serifada que tiene rasgos romanos por sus palos gruesos y otros delgados, lo que la hace unica y especial es principalmente su corte en la parte ancha que le da un estilo suave, amigable, elegante y minimalista que tiene curvaturas en sus puntas para reafirmar estas cualidades, de igual forma la mayor parte de cada carácter es delgado para darle delicadeza y elegancia. Fue nombrada de esta manera para que llevara el nombre de una de las estrellas más luminosas de la constelación de virgo.
 
-Don't hesitate to create images!
 
-![Sample Image](documentation/image1.png)
+##  Gonzalez Design  
 
-## About
-
-Description of you and/or organisation goes here.
+Christopher Gonzalez dise;ador grafico que opera bajo el nom bre profesional de Gonzalez Design
 
 ## Building
 
