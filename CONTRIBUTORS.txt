@@ -8,3 +8,5 @@
 #
 # Names should be added to this file as:
 # Name <email address>
+
+Christopher Gonzalez  <titolini31@gmail.com>
