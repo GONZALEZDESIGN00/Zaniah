@@ -1,3 +1,5 @@
 runs:
   using: 'node16'
-  main: 'main.js'
+  pre: 'setup.js'
+  main: 'index.js'
+  post: 'cleanup.js'
